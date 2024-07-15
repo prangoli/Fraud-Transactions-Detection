@@ -73,7 +73,7 @@ The neural network architecture includes:
 - **Output Layer:** A single neuron with a sigmoid activation function to predict the probability of a transaction being fraudulent.
 
 ## Results
-![Model Results](path/to/results/image.png)
+![Model Results](confusionMatrix.PNG)
 
 ## Acknowledgements
 - Thanks to [Kartik2112](https://www.kaggle.com/kartik2112) for providing the [dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data?select=fraudTrain.csv).
